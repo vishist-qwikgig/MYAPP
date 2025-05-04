@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "232252120114",
+    "project_id": "serendipity-f3328",
+    "storage_bucket": "serendipity-f3328.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232252120114:android:9da31d6ef77fbc663cf02b",
+        "android_client_info": {
+          "package_name": "com.serendipityengine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232252120114-367no88qkvkd22p8vnn5okkcssijhno4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serendipityengine",
+            "certificate_hash": "c53867ab711e049774e0174b500f0893b718b026"
+          }
+        },
+        {
+          "client_id": "232252120114-lt7akpmtvc9k6qjd342jp7vamidgni73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKGWujreBZXqOc_HHxL_ZHGMKxJQOy_wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232252120114-lt7akpmtvc9k6qjd342jp7vamidgni73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
